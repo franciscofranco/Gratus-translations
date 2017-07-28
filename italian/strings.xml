@@ -33,7 +33,7 @@
     <string name="about_gratus">Gratus is a simple app to promote good vibes and positivity. It offers a simple interface to encourage to write about the things we\'re most grateful for.\n\nThe feeling of being grateful is often associated with happiness and good mental health. Quoting Dr. Robert Emmons, professor of Psychology at the University of California "There are many things in our lives, both large and small, that we might be grateful about". Gratus will help you remember about these things and make you smile every time you\'re reminded of them.\n\nGratus is dedicated to my sister and my girlfriend, for whom I\'m very grateful.</string>
     <string name="daily_reminder_title">Promemoria giornaliero</string>
     <string name="daily_reminder_summary">About the things you\'re most grateful for from the day</string>
-    <string name="daily_reminder_time_title">Tempo d'allerta</string>
+    <string name="daily_reminder_time_title">Tempo d\'allerta</string>
     <string name="daily_reminder_notif_title">Per cosa sei grato oggi?</string>
     <string name="daily_reminder_notif_text">Write down what made today special!</string>
     <string name="pref_security_category_title">Sicurezza</string>
@@ -51,10 +51,10 @@
     <string name="deny">Nega</string>
     <string name="passcode_fingerprint_notice">You\'ll be able to use your fingerprint to unlock. The passcode is required just in case the fingerprint doesn\'t work or is inaccessible somehow</string>
     <string name="info">Info</string>
-    <string name="app_info">Info sull'app</string>
+    <string name="app_info">Info sull\'app</string>
     <string name="illustrations">Illustrazioni</string>
     <string name="virginia_summary">Superstar doodler</string>
-    <string name="premium_version_required">La versione premium è richiesta per utilizzare quest'opzione</string>
+    <string name="premium_version_required">La versione premium è richiesta per utilizzare quest\'opzione</string>
     <string name="unlock_features">Sblocca tutte le caratteristiche</string>
     <string name="premium_4">Passcode/fingerprint protection for your personal notes</string>
     <string name="premium_3">Daily reminder to write about something you\'re grateful for the day</string>
