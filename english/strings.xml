@@ -58,8 +58,8 @@
     <string name="unlock_features">Unlock all features</string>
     <string name="premium_4">Passcode/fingerprint protection for your personal notes</string>
     <string name="premium_3">Daily reminder to write about something you\'re grateful for the day</string>
-    <string name="premium_2">Show notes in a widget, refreshing every N hours/minutes and configurable)</string>
-    <string name="premium_1">Ability to show grateful notes in the notification panel, refreshing every N hours/minutes (user configurable)</string>
+    <string name="premium_2">Show notes in a widget, refreshing every N hours/minutes (the timing is configurable</string>
+    <string name="premium_1">Ability to show grateful notes in the notification panel, refreshing every N hours/minutes (the timing is configurable)</string>
     <string name="features_now">Upgrade to get all these magical features \uD83D\uDE42</string>
     <string name="you_need_premium">You need premium to use this</string>
     <string name="no_snooping_new_pwd">Enter a new 4 to 6 digit passcode</string>
