@@ -12,7 +12,6 @@
     <string name="by_likes">Por "me gusta"</string>
     <string name="tags">Etiquetas</string>
     <string name="everything">Todo</string>
-    <string name="everything_tag">Todo</string>
     <string name="tag_me">Etiquétame (p. ej. Amigos)</string>
     <string name="grateful_for_title">¿Qué agradeces?</string>
     <string name="grateful_for_title_first_run">¡Hola!</string>
@@ -36,7 +35,7 @@
     <string name="daily_reminder_summary">Acerca de las cosas que más agradeces en tu día</string>
     <string name="daily_reminder_time_title">Hora de alerta</string>
     <string name="daily_reminder_notif_title">¿Qué agradeces el día de hoy?</string>
-    <string name="daily_reminder_notif_text">¡Escribe qué hizo especial el día de hoy!</string>
+    <string name="daily_reminder_notif_text">¡Escribe qué hizo especial el día de hoy!<!--y recuerda todas las cosas que agradeces--></string>
     <string name="pref_security_category_title">Seguridad</string>
     <string name="app_lock_title">Bloqueo de aplicación</string>
     <string name="app_lock_summary">Protege tus notas Gratus de los fisgones</string>

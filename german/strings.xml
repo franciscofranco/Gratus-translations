@@ -12,7 +12,6 @@
     <string name="by_likes">Nach Likes</string>./gra
     <string name="tags">Tags</string>
     <string name="everything">Alles</string>
-    <string name="everything_tag">Alles</string>
     <string name="tag_me">Tag mich (z.b. Freunde)</string>
     <string name="grateful_for_title">Wofür bist du dankbar?</string>
     <string name="grateful_for_title_first_run">Hallo!</string>
@@ -36,7 +35,7 @@
     <string name="daily_reminder_summary">Über die Dinge, für die du am Meisten dankbar warst den Tag über</string>
     <string name="daily_reminder_time_title">Erinnerungszeit</string>
     <string name="daily_reminder_notif_title">Wofür bist du heute dankbar?</string>
-    <string name="daily_reminder_notif_text">Notiere was den heutigen Tag so besonders gemacht hat!</string>
+    <string name="daily_reminder_notif_text">Notiere was den heutigen Tag so besonders gemacht hat!<!--und denke an all die Dinge, für die du dankbar bist--></string>
     <string name="pref_security_category_title">Sicherheit</string>
     <string name="app_lock_title">Appsperrung</string>
     <string name="app_lock_summary">Schütze deine Gratus Notizen vor neugierigen Augen</string>
