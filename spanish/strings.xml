@@ -9,7 +9,7 @@
     <string name="edit">Editar</string>
     <string name="filters">Organizar &amp; etiquetas</string>
     <string name="by_date">Por fecha</string>
-    <string name="by_likes">Por "me gusta"</string>
+    <string name="by_likes">Por \"me gusta\"</string>
     <string name="tags">Etiquetas</string>
     <string name="everything">Todo</string>
     <string name="tag_me">Etiquétame (p. ej. Amigos)</string>
@@ -80,5 +80,13 @@
     <string name="no_thanks">no, gracias</string>
     <string name="no">no</string>
     <string name="notification_is_cancelable_title">Cerrar notificación</string>
-    <string name="notification_is_cancelable_summary">Permite que à notificación sea cerrada. Todavía se le mostrará a cada actualización</string>
+    <string name="notification_is_cancelable_summary">Permite que la notificación sea cerrada. Todavía se le mostrará por cada actualización</string>
+    <string name="faq_question_1">%1$s ¿Dónde se guardan mis notas?</string>
+    <string name="faq_answer_1">Todas las notas que publique en Gratus se guardan en el almacenamiento local de su dispositivo, en el directorio de datos privado de Gratus. Son inaccesibles por medios normales ya que Android protege los datos privados de la aplicación con SELinux y permisos estrictos.</string>
+    <string name="faq_question_2">%1$s ¿Cómo hacer copias de seguridad de mis notas?</string>
+    <string name="faq_answer_2">Actualmente, Gratus usa el sistema de respaldo incorporado de Android que se introdujo con Android Marshmallow, por lo que si limpia su dispositivo y comienza de nuevo puede restaurar todo a como estaba. En una futura actualización se implementará una funcionalidad de copia de seguridad más transparente, probablemente mediante Google Drive.</string>
+    <string name="faq_question_3">%1$s ¿Para qué sirve el contador de corazones/\"me gusta\"?</string>
+    <string name="faq_answer_3">Sirve dos propósitos. Una de ellas es alentarte a volver a Gratus y volver a leer las notas de agradecimiento más antiguas y, finalmente, dar un \"me gusta\" de nuevo. En segundo lugar, influir en la frecuencia con la que aparecen notas en la notificación/widget. Más \"me gusta\" equivale a una mayor probabilidad de que esas notas aparezcan. También, ya que puedes ordenar la lista de notas por \"me gusta\" en lugar de por la fecha, al abrir la aplicación verás tus notas favoritas en la parte superior</string>
+    <string name="faq_question_4">%1$s ¿Por qué no está Gratus traducida a mi idioma?</string>
+    <string name="faq_answer_4">Traducir aplicaciones es costoso debido a la inversión inicial (un montón de palabras para empezar), pero con cada actualización se añaden nuevos textos que necesitan ser traducidos (y cuesta más dinero que el pago único de la aplicación para desbloquear todas las características). Hago uso de \"crowdsourcing\" y de la buena voluntad de los usuarios increíbles que utilizan su propio tiempo libre para traducir estos textos de forma gratuita. Eventualmente, la aplicación se traducirá a los idiomas más comunes. Si quieres ayudarme, envíame un correo electrónico</string>
 </resources>
