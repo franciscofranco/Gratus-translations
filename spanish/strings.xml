@@ -58,8 +58,8 @@
     <string name="unlock_features">Desbloquear todas las funciones</string>
     <string name="premium_4">Protección de clave o huella dactilar para tus notas personales</string>
     <string name="premium_3">Recordatorio diario para escribir sobre algo que agradezcas en el día</string>
-    <string name="premium_2">Escribir notas en un widget, actualizado cada N horas/minutos y configurable</string>
-    <string name="premium_1">Mostrar notas de gratitud en el panel de notificaciones, actualizando cada N horas/minutos (configurable por el usuario)</string>
+    <string name="premium_2">Mostrar notas en un widget, actualizado cada N horas/minutos (el intervalo es configurable)</string>
+    <string name="premium_1">Mostrar notas de gratitud en el panel de notificaciones, actualizando cada N horas/minutos (el intervalo es configurable)</string>
     <string name="features_now">¡Obtén todas estas características mágicas \uD83D\uDE42!</string>
     <string name="you_need_premium">Necesitas la versión premium para usar esto</string>
     <string name="no_snooping_new_pwd">Introduce una nueva clave de 4 a 6 dígitos</string>
