@@ -39,10 +39,10 @@
     <string name="pref_security_category_title">Keamanan</string>
     <string name="app_lock_title">Kunci</string>
     <string name="app_lock_summary">Amankan pesan-pesan Gratus anda</string>
-    <string name="app_lock_summary_disabled">Siapkan kode sandi terlebih dahulu</string>
+    <string name="app_lock_summary_disabled">Siapkan sandi terlebih dahulu</string>
     <string name="save">Simpan</string>
-    <string name="passcode_title_create">Buat kode sandi</string>
-    <string name="passcode_title_edit">Ganti kode sandi</string>
+    <string name="passcode_title_create">Buat sandi</string>
+    <string name="passcode_title_edit">Ganti sandi</string>
     <string name="delete_message">Apakah anda yakin ingin mengahpus pesan ini?</string>
     <string name="yes">ya</string>
     <string name="cancel">batal</string>
@@ -56,7 +56,7 @@
     <string name="virginia_summary">Doodler superstar</string>
     <string name="premium_version_required">Versi premium diperlukan untuk menggunakan fitur ini</string>
     <string name="unlock_features">Buka semua fitur</string>
-    <string name="premium_4">Proteksi kode sandi/sidik jari untuk pesan-pesan anda</string>
+    <string name="premium_4">Proteksi sandi/sidik jari untuk pesan-pesan anda</string>
     <string name="premium_3">Pengingat harian untuk menuliskan hal-hal yang anda syukuri</string>
     <string name="premium_2">Tampilkan pesan dalam widget setiap waktu (waktu dapat dikonfigurasikan)</string>
     <string name="premium_1">Tampilkan pesan dalam notifikasi setiap waktu (waktu dapat dikonfigurasikan)</string>
