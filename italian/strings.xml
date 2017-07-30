@@ -63,7 +63,7 @@
     <string name="features_now">Aggiorna per ottenere tutte queste magiche caratteristiche \uD83D\uDE42</string>
     <string name="you_need_premium">È necessario il premium per utilizzare questo</string>
     <string name="no_snooping_new_pwd">Immetti una nuova password da 4 a 6 caratteri</string>
-    <string name="snooping_pwd_too_small">La password è troppo piccola. Deve essere minimo di 4 caratteri.</string>
+    <string name="snooping_pwd_too_small">La password è troppo corta. Deve essere minimo di 4 caratteri.</string>
     <string name="wrong_pwd">Password sbagliata</string>
     <string name="cant_use_same_pwd">Non puoi riutilizzare la stessa password</string>
     <string name="verify_new_passcode">Verifica la tua nuova passowrd</string>
