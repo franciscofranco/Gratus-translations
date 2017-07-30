@@ -34,7 +34,7 @@
     <string name="daily_reminder_title">Rappel journalier</string>
     <string name="daily_reminder_summary">À propos des choses dont vous êtes le plus reconnaissant aujourd\'hui</string>
     <string name="daily_reminder_time_title">Heure d\'alerte</string>
-    <string name="daily_reminder_notif_title">En quoi êtes vous reconnaissant aujourd\'hui ?<string>
+    <string name="daily_reminder_notif_title">En quoi êtes vous reconnaissant aujourd\'hui ?</string>
     <string name="daily_reminder_notif_text">Écris ce qui à rendu ce jour spécial !</string>
     <string name="pref_security_category_title">Sécurité</string>
     <string name="app_lock_title">Vérrouillage de l\'application</string>
@@ -58,7 +58,7 @@
     <string name="unlock_features">Débloquer toutes les fonctions</string>
     <string name="premium_4">Protection par mot de passe/empreinte digitale pour vos messages privés</string>
     <string name="premium_3">Rappel journalier d\'écrire à propos d\'une chose pour laquelle vous êtes reconnaissant aujourd\'hui</string>
-    <string name="premium_2">Montrer les messages dans un widget, ce rafraîchissant toutes les N heures/minutes (temps configurable)<string>
+    <string name="premium_2">Montrer les messages dans un widget, ce rafraîchissant toutes les N heures/minutes (temps configurable)</string>
     <string name="premium_1">Possibilité de mettre vos messages reconnaissant dans le panneau de notification, ce rafraîchissant toutes les N heures/minutes (temps configurable)</string>
     <string name="features_now">Passer sur la version premium pour avoir toutes ces fonctions magique \uD83D\uDE42</string>
     <string name="you_need_premium">Tu as besoin de la version premium pour utiliser ceci</string>
