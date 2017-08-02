@@ -12,7 +12,6 @@
     <string name="by_likes">Beğenilere göre</string>./gra
     <string name="tags">Etiketler</string>
     <string name="everything">Her şey</string>
-    <string name="everything_tag">Her şey</string>
     <string name="tag_me">Beni etiketle (ör. Arkadaşlar)</string>
     <string name="grateful_for_title">Ne için minnettarsın?</string>
     <string name="grateful_for_title_first_run">Selam!</string>
@@ -31,7 +30,7 @@
     <string name="notification_show_summary">Rasgele minnettar notları kalıcı bir bildirim olarak göster</string>
     <string name="share">Paylaş</string>
     <string name="about">Gratus Hakkında</string>
-    <string name="about_gratus">Gratus, iyi dürtüleri ve pozitifliği teşvik eden basit bir uygulamadır. Çok minnettar olduğumuz şeyler hakkında yazmaya teşvik etmek için basit bir arayüz sunar.\n\nTeşekkür etmekte olduğumuz hissi genellikle mutluluk ve iyi zihinsel sağlık ile ilişkilendirilir. California Üniversitesin de Psikoloji profesörü Dr. Robert Emmons\'un alıntıdır; "Yaşamımızda hem büyük hem de küçük olan, çok fazla minnettar olduğumuz şeyler var". Gratus bunları hatırlamanıza ve onları hatırladığınız her an gülümsemenize yardımcı olacaktır.\n\nGratus\'u, kız kardeşime ve kız arkadaşıma ithaf edilmiştir, çünkü onların varlığına çok minnettarım.</string>
+    <string name="about_gratus">Gratus, iyi dürtüleri ve pozitifliği teşvik eden basit bir uygulamadır. Çok minnettar olduğumuz şeyler hakkında yazmaya teşvik etmek için basit bir arayüz sunar.\n\nTeşekkür etmekte olduğumuz hissi genellikle mutluluk ve iyi zihinsel sağlık ile ilişkilendirilir. California Üniversitesin den Psikoloji profesörü Dr. Robert Emmons\'dan alıntıdır; "Yaşamımızda hem büyük hem de küçük olan, çok fazla minnettar olduğumuz şeyler var". Gratus bunları hatırlamanıza ve onları hatırladığınız her an gülümsemenize yardımcı olacaktır.\n\nGratus\'u, kız kardeşim ve kız arkadaşıma ithaf edilmiştir, çünkü onların varlığına çok minnettarım.</string>
     <string name="daily_reminder_title">Günlük hatırlatıcı</string>
     <string name="daily_reminder_summary">Bu gün için en minnettar olduğunuz şeyler hakkında</string>
     <string name="daily_reminder_time_title">Uyarı zamanı</string>
@@ -87,7 +86,7 @@
     <string name="faq_question_2">%1$s Notlarımı nasıl yedekleyebilirim?</string>
     <string name="faq_answer_2">Şu anda Gratus Android\Marshmallow ile piyasaya sürülen dahili yedekleme sistemini kullanıyor; bu nedenle cihazınızı silip yeni bir kurulum yaparsanız, her şeyi geri yükleyebilirsiniz. Gelecekteki bir güncellemede, daha şeffaf bir yedekleme işlevi uygulanacaktır, muhtemelen Google Drive.</string>
     <string name="faq_question_3">%1$s Kalp/beğeni benzeri sayaç ne için??</string>
-    <string name="faq_answer_3">İki amaca hizmet eder. Birincisi sizi Gratus\'a geri dönmeye ve daha eski minnettar notları yeniden okumaya ve sonuçta onları tekrar "beğenmeye" çağırmaya davet etmektir. İkincisi, notların bildirim/widget\'te ne sıklıkla göründüğünü etkiliyor. Daha fazla \"beğenme\", bu notların görünmesi konusunda daha yüksek bir şansa eşittir. Ayrıca, notları tarih yerine \"beğenme\" ile sıralayabildiğinizden, uygulamayı açtığınızda favori notlarınızı en üstte göreceksiniz</string>
+    <string name="faq_answer_3">İki amaca hizmet eder. Birincisi sizi Gratus\'a geri dönmeye ve daha eski minnettar notları yeniden okumaya ve sonuçta onları tekrar "beğenmeye" çağırmaya davet etmektir. İkincisi, notların bildirim/widget\'te ne sıklıkla göründüğünü etkiliyor. Daha fazla \"beğenme\", bu notların görünmesi konusunda daha yüksek bir şansa eşittir. Ayrıca, notları tarih yerine \"beğenme\" ile sıralayabildiğinizden, uygulamayı açtığınızda favori notlarınızı en üstte göreceksiniz.</string>
     <string name="faq_question_4">%1$s Neden Gratus benim dilime çevrilmedi??</string>
     <string name="faq_answer_4">Uygulamaları çevirmek, başlangıçtaki yatırımdan (birçok sözcükten dolayı) maliyetlidir, ancak her güncellemede tercüme edilmesi gereken yeni dizeler eklenir (ve tüm özellikleri kilidini açmak için bir kez uygulama içi satın alımdan daha fazla masraf alır). Kalabalığın kaynağını ve bu dizeleri ücretsiz olarak çevirmek için kendi boş zamanlarını kullanan inanılmaz kullanıcıların iyi niyetini kullanıyorum. Sonunda uygulama en yaygın dillere çevrilmiş olacak. Yardımcı olmak isterseniz bana bir e-posta gönderin lütfen.</string>
 </resources>
