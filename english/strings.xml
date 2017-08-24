@@ -32,8 +32,8 @@
     <string name="about">About Gratus</string>
     <string name="about_gratus">Gratus is a simple app to promote good vibes and positivity. It offers a simple interface to encourage to write about the things we\'re most grateful for.\n\nThe feeling of being grateful is often associated with happiness and good mental health. Quoting Dr. Robert Emmons, professor of Psychology at the University of California "There are many things in our lives, both large and small, that we might be grateful about". Gratus will help you remember about these things and make you smile every time you\'re reminded of them.\n\nGratus is dedicated to my sister and my girlfriend, for whom I\'m very grateful.</string>
     <string name="daily_reminder_title">Daily reminder</string>
-    <string name="daily_reminder_summary">About the things you\'re most grateful for from the day</string>
-    <string name="daily_reminder_time_title">Alert time</string>
+    <string name="daily_reminder_summary">To write about the things you\'re most grateful for from your day</string>
+    <string name="daily_reminder_time_title">Reminder alert time</string>
     <string name="daily_reminder_notif_title">What are you grateful for today?</string>
     <string name="daily_reminder_notif_text">Write down what made today special!</string>
     <string name="pref_security_category_title">Security</string>
@@ -56,10 +56,14 @@
     <string name="virginia_summary">Superstar doodler</string>
     <string name="premium_version_required">Premium version required to use this feature</string>
     <string name="unlock_features">Unlock all features</string>
+    <string name="premium_5">A handful of 17 beautiful themes to reflect your personality and mood</string>
     <string name="premium_4">Passcode/fingerprint protection for your personal notes</string>
-    <string name="premium_3">Daily reminder to write about something you\'re grateful for the day</string>
     <string name="premium_2">Show notes in a widget, refreshing every N hours/minutes (the timing is configurable</string>
     <string name="premium_1">Ability to show grateful notes in the notification panel, refreshing every N hours/minutes (the timing is configurable)</string>
+    <string name="premium_1_title">Magical notifications</string>
+    <string name="premium_2_title">You get a widget, you get a widget, everyone gets a widget</string>
+    <string name="premium_4_title">Protection even James Bond can\'t crack</string>
+    <string name="premium_5_title">Express yourself with color</string>
     <string name="features_now">Upgrade to get all these magical features \uD83D\uDE42</string>
     <string name="you_need_premium">You need premium to use this</string>
     <string name="no_snooping_new_pwd">Enter a new 4 to 6 digit passcode</string>
@@ -86,7 +90,15 @@
     <string name="faq_question_2">%1$s How to backup my notes?</string>
     <string name="faq_answer_2">Currently Gratus uses Android\'s built-in backup system that was introduced with Android Marshmallow, so if you wipe your device and start anew you can restore everything back to what it was. In a future update a more transparent backup functionality will be implemented, probably Google Drive.</string>
     <string name="faq_question_3">%1$s What is the heart/like counter for?</string>
-    <string name="faq_answer_3">It serves two purposes. One is to encourage you to come back to Gratus and re-read older grateful notes and eventually \"like\" them again. Second is influencing how often notes appear in the notification/widget. More \"likes\" equal a higher chance on having those notes show up. Also since you can sort the notes list by \"likes\" instead of date, when you open the app you will see your favorite notes right on top.</string>
+    <string name="faq_answer_3">It serves two purposes. One is to encourage you to come back to Gratus and re-read older grateful notes and eventually \"like\" them again. Second is influencing how often notes appear in the notification/widget. More \"likes\" equal a higher chance on having those notes show up. Also since you can sort the notes list by \"likes\" instead of date, when you open the app you will see your favorite notes right on top</string>
     <string name="faq_question_4">%1$s Why isn\'t Gratus translated to my language?</string>
-    <string name="faq_answer_4">Translating apps is costly because of the initial investment (lots of words to begin with) but with every update new strings are added that need to be translated (and it costs more money than the one time in-app purchase to unlock all the features). I make use of crowd sourcing and good will of amazing users that use their own free time to translate these strings for free. Eventually the app will be localized into the most common languages. If you want to help send me an e-mail.</string>
+    <string name="faq_answer_4">Translating apps is costly because of the initial investment (lots of words to begin with) but with every update new strings are added that need to be translated (and it costs more money than the one time in-app purchase to unlock all the features). I make use of crowd sourcing and good will of amazing users that use their own free time to translate these strings for free. Eventually the app will be localized into the most common languages. If you want to help send me an e-mail</string>
+    <string name="tag_cant_have_whitespace">The tag can\'t have white space(s)</string>
+    <string name="preset_themes">Preset themes</string>
+    <string name="themes">Themes</string>
+    <string name="pick_image">Pick image</string>
+    <string name="have_a_nice_day_title">Motivational notification</string>
+    <string name="have_a_nice_day_summary">A daily \"Have a nice day!\" message with a beautifully crafted illustration to start your day feeling great and energized!</string>
+    <string name="have_a_nice_day_time_title">Notification alert time</string>
+    <string name="smile">Smile!</string>
 </resources>
