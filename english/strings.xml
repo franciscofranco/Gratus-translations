@@ -103,4 +103,5 @@
     <string name="smile">Smile!</string>
     <string name="unlock_features_themes">You need to unlock the premium version to select these beautiful themes</string>
     <string name="only_pictures_title">Only display notes with pictures</string>
+    <string name="like">I like this!</string>
 </resources>
