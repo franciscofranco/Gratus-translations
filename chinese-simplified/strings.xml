@@ -74,9 +74,9 @@
     <string name="passcode">使用密码</string>
     <string name="confirm_passcode">确认您的密码</string>
     <string name="are_you_enjoying_gratus">目前您对Gratus满意吗？</string>
-    <string name="care_to_give_it_a_rating">您介意在Play商店评分吗？</string>
-    <string name="sure">当然不</string>
-    <string name="not_now">以后吧</string>
+    <string name="care_to_give_it_a_rating">在Play商店中评分？</string>
+    <string name="sure">确定</string>
+    <string name="not_now">暂时不</string>
     <string name="want_to_share_feedback">想分享反馈来帮助Gratus变得更好吗？</string>
     <string name="no_thanks">不用了，谢谢</string>
     <string name="no">不</string>
@@ -89,5 +89,16 @@
     <string name="faq_question_3">%1$s 赞/喜欢的计数功能有什么用？</string>
     <string name="faq_answer_3">它有两种作用。一是鼓励你再次使用Gratus重读之前的感恩笔记并最终再次“喜欢”他们。二是影响笔记出现在通知/小部件中的频率。更多的“赞”会让这些笔记出现的几率更大。你也可以按“赞”数而不是日期给笔记排序，当你打开应用时你将看到你最喜欢的笔记就在最上面。</string>
     <string name="faq_question_4">%1$s 为什么Gratus没有被翻译成我的语言？</string>
-    <string name="faq_answer_4">翻译应用很昂贵因为初始投资（刚开始要翻译很多话）并且每次更新添加的字符串也需要翻译（这比一次性解锁所有功能的应用内购还贵）。我利用众包和惊人的用户的善意，他们在空闲时免费翻译这些字符串。最终应用会被翻译成许多最常见的语言。如果你想帮忙请给我发邮件。</string>
+    <string name="faq_answer_4">翻译应用很昂贵（因为刚开始要翻译很多话）并且每次更新添加的字符串也需要翻译（这比一次性解锁所有功能的应用内购还贵）。我利用众包和惊人的用户的善意，他们在空闲时免费翻译这些字符串。最终应用会被翻译成许多最常见的语言。如果你想帮忙请给我发邮件。</string>
+    <string name="tag_cant_have_whitespace">标签不能包含空格</string>
+    <string name="preset_themes">预置主题</string>
+    <string name="themes">主题</string>
+    <string name="pick_image">选择图片</string>
+    <string name="have_a_nice_day_title">激励提醒</string>
+    <string name="have_a_nice_day_summary">A daily \"Have a nice day!\" message with a beautifully crafted illustration to start your day feeling great and energized!</string>
+    <string name="have_a_nice_day_time_title">提醒警示时间</string>
+    <string name="smile">微笑!</string>
+    <string name="unlock_features_themes">你需要解锁高级版本来选择这些精美主题</string>
+    <string name="only_pictures_title">只显示有图片的笔记</string>
+    <string name="like">我喜欢这个!</string>
 </resources>
