@@ -89,4 +89,15 @@
     <string name="faq_answer_3">Serve per due scopi. Uno è quello di incoraggiarvi a tornare a Gratus e leggere le vecchie note riconoscenti e, alla fine, \"ripetere\" esse. Il secondo è influenzare quanto spesso le note appaiono nella notifica/widget. Maggiori \"likes\" è uguale ad una maggiore probabilità di avere le note visualizzate. Inoltre poiché puoi ordinare l\'elenco delle note con \"likes\" invece della data, quando apri l\'applicazione vedrai le tue note preferite in cima</string>
     <string name="faq_question_4">%1$s Perché Gratus non è tradotto nella mia lingua?</string>
     <string name="faq_answer_4">La traduzione dell\'app è costosa a causa dell\'investimento iniziale (con molte parole da cominciare), ma con ogni aggiornamento vengono aggiunte nuove stringhe che devono essere tradotte (e costa più soldi rispetto all\'unico acquisto in-app per sbloccare tutte le funzionalità). Faccio uso della fonte di sourcing e della buona volontà di utenti straordinari che usano il proprio tempo libero per tradurre queste stringhe gratuitamente. Alla fine l\'applicazione verrà localizzata nelle lingue più comuni. Se vuoi aiutare mandami una e-mail</string>
+    <string name="tag_cant_have_whitespace">Il tag non può avere spazi vuoti</string>
+    <string name="preset_themes">Temi precaricati</string>
+    <string name="themes">Temi</string>
+    <string name="pick_image">Seleziona un'\immagine</string>
+    <string name="have_a_nice_day_title">Notifica motivazionale</string>
+    <string name="have_a_nice_day_summary">Un messaggio giornaliero \"Abbi una bella giornata!\" con una bella illustrazione per iniziare la tua giornata bene ed energicamente!</string>
+    <string name="have_a_nice_day_time_title">Tempo d'\avviso della notifica</string>
+    <string name="smile">Sorridi!</string>
+    <string name="unlock_features_themes">E' necessario che sblocchi la versione premium per selezionare questi bei temi</string>
+    <string name="only_pictures_title">Mostra solo le note con le immagini</string>
+    <string name="like">Mi piace questo!</string>
 </resources>
