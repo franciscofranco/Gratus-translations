@@ -92,12 +92,12 @@
     <string name="tag_cant_have_whitespace">Il tag non può avere spazi vuoti</string>
     <string name="preset_themes">Temi precaricati</string>
     <string name="themes">Temi</string>
-    <string name="pick_image">Seleziona un'\immagine</string>
+    <string name="pick_image">Seleziona un\'immagine</string>
     <string name="have_a_nice_day_title">Notifica motivazionale</string>
     <string name="have_a_nice_day_summary">Un messaggio giornaliero \"Abbi una bella giornata!\" con una bella illustrazione per iniziare la tua giornata bene ed energicamente!</string>
-    <string name="have_a_nice_day_time_title">Tempo d'\avviso della notifica</string>
+    <string name="have_a_nice_day_time_title">Tempo d\'avviso della notifica</string>
     <string name="smile">Sorridi!</string>
-    <string name="unlock_features_themes">E' necessario che sblocchi la versione premium per selezionare questi bei temi</string>
+    <string name="unlock_features_themes">E\' necessario che sblocchi la versione premium per selezionare questi bei temi</string>
     <string name="only_pictures_title">Mostra solo le note con le immagini</string>
     <string name="like">Mi piace questo!</string>
 </resources>
