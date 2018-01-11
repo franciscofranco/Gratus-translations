@@ -56,10 +56,14 @@
     <string name="virginia_summary">Superstar doodler</string>
     <string name="premium_version_required">Bu özelliği kullanmak için premium sürüm gereklidir</string>
     <string name="unlock_features">Tüm özelliklerin kilidini aç</string>
+	<string name="premium_5">Kişiliğinizi ve ruh halinizi yansıtacak bir avuç güzel tema</string>
     <string name="premium_4">Kişisel notlarınız için şifre/parmak izi koruması</string>
-    <string name="premium_3">Gün boyunca minnettar olduğunuz bir şey hakkında yazmak için günlük hatırlatıcı</string>
     <string name="premium_2">Bir widget\'de notları gösterin, her saat/dakika yenileyip yapılandırılabilir</string>
     <string name="premium_1">Bildirim panelinde minnettar notlar göster, her saat/dakika yenileme özelliği (kullanıcı tarafından yapılandırılabilir)</string>
+	<string name="premium_1_title">Büyülü bildirimler</string>
+    <string name="premium_2_title">Bir widget alırsınız, bir widget alırsınız, herkes bir widget alır</string>
+    <string name="premium_4_title">Korumayı James Bond bile kıramaz</string>
+    <string name="premium_5_title">Kendinizi renkle ifade edin</string>
     <string name="features_now">Tüm bu büyülü özellikleri elde etmek için yeni sürüme geçin \uD83D\uDE42</string>
     <string name="you_need_premium">Bunu kullanmak için premium sürümü almanız gerekir</string>
     <string name="no_snooping_new_pwd">4 ila 6 basamaklı yeni bir şifre giriniz</string>
@@ -89,4 +93,15 @@
     <string name="faq_answer_3">İki amaca hizmet eder. Birincisi sizi Gratus\'a geri dönmeye ve daha eski minnettar notları yeniden okumaya ve sonuçta onları tekrar "beğenmeye" çağırmaya davet etmektir. İkincisi, notların bildirim/widget\'te ne sıklıkla göründüğünü etkiliyor. Daha fazla \"beğenme\", bu notların görünmesi konusunda daha yüksek bir şansa eşittir. Ayrıca, notları tarih yerine \"beğenme\" ile sıralayabildiğinizden, uygulamayı açtığınızda favori notlarınızı en üstte göreceksiniz.</string>
     <string name="faq_question_4">%1$s Neden Gratus benim dilime çevrilmedi??</string>
     <string name="faq_answer_4">Uygulamaları çevirmek, başlangıçtaki yatırımdan (birçok sözcükten dolayı) maliyetlidir, ancak her güncellemede tercüme edilmesi gereken yeni dizeler eklenir (ve tüm özellikleri kilidini açmak için bir kez uygulama içi satın alımdan daha fazla masraf alır). Kalabalığın kaynağını ve bu dizeleri ücretsiz olarak çevirmek için kendi boş zamanlarını kullanan inanılmaz kullanıcıların iyi niyetini kullanıyorum. Sonunda uygulama en yaygın dillere çevrilmiş olacak. Yardımcı olmak isterseniz bana bir e-posta gönderin lütfen.</string>
+	<string name="tag_cant_have_whitespace">Etiket beyaz alana sahip olamaz</string>
+    <string name="preset_themes">Hazır temalar</string>
+    <string name="themes">Temalar</string>
+    <string name="pick_image">Resim seçin</string>
+    <string name="have_a_nice_day_title">Motivasyon bildirimi</string>
+    <string name="have_a_nice_day_summary">Günlük "İyi günler!" mesajı, güne harika ve enerji dolu hissetmeye başlamanızı sağlayacak güzel hazırlanmış bir illüstrasyona sahip!</string>
+    <string name="have_a_nice_day_time_title">Bildirim uyarı zamanı</string>
+    <string name="smile">Gülümse!</string>
+    <string name="unlock_features_themes">Bu güzel temaları seçmek için premium sürümün kilidini açmanız gerekir</string>
+    <string name="only_pictures_title">Sadece resimleri olan notları görüntüleyin</string>
+    <string name="like">Bunu sevdim!</string>
 </resources>
